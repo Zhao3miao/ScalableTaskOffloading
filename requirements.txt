@@ -1,0 +1,10 @@
+gymnasium>=0.28.0
+matplotlib>=3.7.0
+networkx>=2.8.0
+numpy>=1.24.0
+osmnx>=1.1.2
+pandas>=1.5.0
+parl>=2.2.1
+PyYAML>=6.0
+scipy>=1.10.0
+torch>=1.13.1
